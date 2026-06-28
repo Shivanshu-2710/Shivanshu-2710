@@ -1,4 +1,4 @@
-👋 Hi, I'm Shivanshu!
+##👋 Hi, I'm Shivanshu!
 
 I'm a student from India passionate about software development and open source.
 
