@@ -6,9 +6,7 @@
 ### 🌿 Git & GitHub <br>
 ### 🧠 Data Structures & Algorithms <br>
 ### 📂 Building real-world projects <br>
-
 ### My long-term goal is to become a software engineer and contribute to major open-source projects through programs like GSoC.
-
 ### I'm documenting my learning journey by building projects, solving DSA problems, and sharing notes on GitHub.
 <!--
 **Shivanshu-2710/Shivanshu-2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
